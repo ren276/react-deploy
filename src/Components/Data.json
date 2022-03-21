@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "image": "./images/1.png",
+        "name": "New Balance",
+        "price": "₹ 3450",
+        "star": "./images/star.png",
+        "rating": 5.0,
+        "delivery": "05 March, 2022"
+    },
+    {
+        "id": 2,
+        "image": "./images/2.png",
+        "name": "Balenciaga",
+        "price": "₹ 4560",
+        "star": "./images/star.png",
+        "rating": 4.0,
+        "delivery": "12 December, 2022"
+    },
+    {
+        "id": 3,
+        "image": "./images/3.png",
+        "name": "PUMA",
+        "price": "₹ 3100",
+        "star": "./images/star.png",
+        "rating": 2.0,
+        "delivery": "21 February, 2022"
+    },
+    {
+        "id": 4,
+        "image": "./images/1.png",
+        "name": "FILA",
+        "price": "₹ 4650",
+        "star": "./images/star.png",
+        "rating": 1.0,
+        "delivery": "24 May, 2022"
+    },
+    {
+        "id": 5,
+        "image": "./images/2.png",
+        "name": "ASICS",
+        "price": "₹ 5400",
+        "star": "./images/star.png",
+        "rating": 5.0,
+        "delivery": "12 May, 2022"
+    },
+    {
+        "id": 6,
+        "image": "./images/3.png",
+        "name": "Adidas",
+        "price": "₹ 2360",
+        "star": "./images/star.png",
+        "rating": 3.0,
+        "delivery": "23 August, 2022"
+    },
+    {
+        "id": 7,
+        "image": "./images/1.png",
+        "name": "Skechers",
+        "price": "₹ 3400",
+        "star": "./images/star.png",
+        "rating": 2.0,
+        "delivery": "01 January, 2022"
+    },
+    {
+        "id": 8,
+        "image": "./images/2.png",
+        "name": "Woodland",
+        "price": "₹ 4650",
+        "star": "./images/star.png",
+        "rating": 4.0,
+        "delivery": "02 November, 2022"
+    },
+    {
+        "id": 9,
+        "image": "./images/3.png",
+        "name": "Stelatoes",
+        "price": "₹ 5999",
+        "star": "./images/star.png",
+        "rating": 3.5,
+        "delivery": "14 March, 2022"
+    }
+]
