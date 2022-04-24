@@ -8,7 +8,7 @@ export default function NavBar() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4 ">
       <div className="container-fluid">
         <a className="navbar-brand" href="">
-        <img src={logo} />
+        <img src={logo} alt="meow"/>
           
         </a>
         <button
