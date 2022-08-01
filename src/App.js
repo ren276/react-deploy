@@ -10,6 +10,7 @@ import {Display} from "./Components/Display";
 import Footer from "./Components/Footer"
 
 
+
 function App(){
         
     return(
@@ -22,6 +23,8 @@ function App(){
         </Routes>
         </Router>
         <Footer/>
+        <script/>
+
         </>
     )
 }
